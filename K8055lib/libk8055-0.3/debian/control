@@ -1,0 +1,20 @@
+Source: libk8055
+Priority: extra
+Maintainer: etienne mouragnon <echienne@gmail.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+Section: libs
+
+Package: libk8055-dev
+Section: libdevel
+Architecture: any
+Depends: libk8055BROKEN (= ${Source-Version})
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: libk8055BROKEN
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

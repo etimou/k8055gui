@@ -1,0 +1,6 @@
+libk8055 (0.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- etienne mouragnon <echienne@gmail.com>  Wed, 25 Jun 2008 17:59:35 +0200
+
